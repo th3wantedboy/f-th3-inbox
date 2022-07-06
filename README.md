@@ -7,7 +7,7 @@
       <br/>
 A python script that will automatically send your message to your target
 <br/>
-### Why 0install ??
+### Why f-th3-inbox ??
 
 - Its Fast
 - It Can send 5 message in 1 second
