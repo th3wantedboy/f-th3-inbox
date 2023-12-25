@@ -19,7 +19,7 @@ def banner():
 |  __\| | |||  /  |   /     / \  | |_||  /  |  | || |\ ||| | //| / \| \  /   
 | |   | \_/||  \_ |   \     | |  | | || _\  |  | || | \||| |_\\| \_/| /  \   
 \_/   \____/\____/\_|\_\    \_/  \_/ \|/____/  \_/\_/  \|\____/\____//__/\\
-																									By @th3wantedboy
+									By @th3wantedboy
 Telegram : @th3wantedboy
 Facebook : @th3wantedboy
 Twitter  : @th3wantedboy
