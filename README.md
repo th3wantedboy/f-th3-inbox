@@ -5,8 +5,8 @@
   </a>
       </center>
       <br/>
-A python script that will automatically send your message to your target
-<br/>
+<p>A python script that will automatically send your message to your target</p>
+
 ### Commands :
 ``` shell script
 git clone https://github.com/th3wantedboy/f-th3-inbox
@@ -15,23 +15,7 @@ git clone https://github.com/th3wantedboy/f-th3-inbox
 cd f-th3-inbox
 ```
 ``` shell script
-pip install -r requirements.txt
-```
-``` shell script
 python3 f-th3-inbox.py
-```
-### Commands :
-``` shell script
-git clone https://github.com/th3wantedboy/Coca-Cola-Fucker
-```
-``` shell script
-cd Coca-Cola-Fucker
-```
-``` shell script
-pip install -r requirements.txt
-```
-``` shell script
-python coca-cola.py
 ```
 <br/>
 ### Why f-th3-inbox ??
