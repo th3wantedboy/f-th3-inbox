@@ -15,8 +15,11 @@ git clone https://github.com/th3wantedboy/f-th3-inbox
 cd f-th3-inbox
 ```
 ``` shell script
+pip install -r requirements.txt
+```
+``` shell script
 python3 f-th3-inbox.py
-``` 
+```
 <br/>
 ### Why f-th3-inbox ??
 
